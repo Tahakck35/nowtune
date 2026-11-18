@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/hero.png" alt="Nowtune – a small music island at the top of your Windows screen" width="100%">
+  <img src="hero.png" alt="Nowtune – a small music island at the top of your Windows screen" width="100%">
 </p>
 
 <h1 align="center">Nowtune</h1>
@@ -7,7 +7,7 @@
 It sits at the top centre of your screen, shows what's playing, and opens into a player when you hover.</p>
 
 <p align="center">
-  <a href="https://apps.microsoft.com/detail/9pbt2hpsczwx"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft" width="200"></a>
+  <a href="https://apps.microsoft.com/detail/9pbt2hpsczwx"><img src="https://get.microsoft.com/en-us%20dark.svg" alt="Get it from Microsoft" width="200"></a>
 </p>
 
 <p align="center">Free · No ads · No account · No data collection · Works offline</p>
@@ -30,9 +30,9 @@ It sits at the top centre of your screen, shows what's playing, and opens into a
 
 | | |
 |---|---|
-| ![Compact island](images/en-1-compact.png) | ![Player card](images/en-2-card.png) |
-| ![Volume](images/en-3-volume.png) | ![Live stream](images/en-4-live.png) |
-| ![Tray menu](images/en-5-menu.png) | ![Colors](images/en-6-colors.png) |
+| ![Compact island](en-1-compact.png) | ![Player card](en-2-card.png) |
+| ![Volume](en-3-volume.png) | ![Live stream](en-4-live.png) |
+| ![Tray menu](en-5-menu.png) | ![Colors](en-6-colors.png) |
 
 ## Get it
 
