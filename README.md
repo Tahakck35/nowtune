@@ -7,7 +7,7 @@
 It sits at the top centre of your screen, shows what's playing, and opens into a player when you hover.</p>
 
 <p align="center">
-  <a href="https://apps.microsoft.com/detail/9pbt2hpsczwx"><img src="https://get.microsoft.com/en-us%20dark.svg" alt="Get it from Microsoft" width="200"></a>
+  <a href="https://apps.microsoft.com/detail/9pbt2hpsczwx"><img src="https://get.microsoft.com/images/en-us%20dark.svg" alt="Get it from Microsoft" width="200"></a>
 </p>
 
 <p align="center">Free · No ads · No account · No data collection · Works offline</p>
