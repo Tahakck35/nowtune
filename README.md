@@ -24,6 +24,7 @@ It sits at the top centre of your screen, shows what's playing, and opens into a
 - **Your colors** – 10 themes, including an auto color that follows each song's cover, plus opacity.
 - **Notifications and calls (optional)** – WhatsApp messages and other notifications appear briefly in the island; accept or decline WhatsApp calls right from it. Off by default.
 - **No cover? A spinning record** with the playing app's icon on its label.
+- **Your apps, one click away** – add shortcuts to your favorite apps and games to the card; while music plays, one button switches between the player and your shortcuts.
 - Multi-monitor, start with Windows, English / Turkish / German / Spanish.
 
 ## Screenshots
@@ -33,6 +34,7 @@ It sits at the top centre of your screen, shows what's playing, and opens into a
 | ![Compact island](en-1-compact.png) | ![Player card](en-2-card.png) |
 | ![Volume](en-3-volume.png) | ![Live stream](en-4-live.png) |
 | ![Tray menu](en-5-menu.png) | ![Colors](en-6-colors.png) |
+| ![App shortcuts](en-7-shortcuts.png) | ![Notifications](en-8-notice.png) |
 
 ## Get it
 
@@ -53,7 +55,7 @@ Read the full [privacy policy](https://sites.google.com/view/lavuk-studio).
 
 ### Türkçe
 
-**Nowtune**, Windows için ekranın üst ortasında duran küçük bir müzik widget'ıdır. Çalan şarkıyı gösterir, üzerine gelince oynatma ve uygulama sesi kontrolü açılır, oyunlarda kendini gizler. Ücretsizdir, reklam ve veri toplama yoktur.
+**Nowtune**, Windows için ekranın üst ortasında duran küçük bir müzik widget'ıdır. Çalan şarkıyı gösterir, üzerine gelince oynatma ve uygulama sesi kontrolü açılır, sevdiğin uygulamaların kısayollarını tek tıkla açar, oyunlarda kendini gizler. Ücretsizdir, reklam ve veri toplama yoktur.
 [Microsoft Store'dan indir](https://apps.microsoft.com/detail/9pbt2hpsczwx) · Öneri ve hata bildirimi için [issue aç](../../issues/new).
 
 <sub>© 2026 Lavuk Studio · Contact: lavukstudio@gmail.com</sub>
